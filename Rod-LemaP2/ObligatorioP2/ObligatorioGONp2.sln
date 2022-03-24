@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObligatorioGONp2", "ObligatorioGONp2\ObligatorioGONp2.csproj", "{5DBB6020-7732-4BB0-A193-45C40722EA4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DBB6020-7732-4BB0-A193-45C40722EA4F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{5DBB6020-7732-4BB0-A193-45C40722EA4F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{5DBB6020-7732-4BB0-A193-45C40722EA4F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{5DBB6020-7732-4BB0-A193-45C40722EA4F}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20B80921-FC65-4748-86CA-4EBFFA73BB84}
+	EndGlobalSection
+EndGlobal

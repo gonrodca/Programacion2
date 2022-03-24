@@ -1,0 +1,12 @@
+/Users/gonchi/Desktop/Obligatorios/P2/ObligatorioGONp2/ObligatorioGONp2/bin/Debug/ObligatorioGONp2.exe
+/Users/gonchi/Desktop/Obligatorios/P2/ObligatorioGONp2/ObligatorioGONp2/bin/Debug/ObligatorioGONp2.pdb
+/Users/gonchi/Desktop/Obligatorios/P2/ObligatorioGONp2/ObligatorioGONp2/obj/Debug/ObligatorioGONp2.csprojAssemblyReference.cache
+/Users/gonchi/Desktop/Obligatorios/P2/ObligatorioGONp2/ObligatorioGONp2/obj/Debug/ObligatorioGONp2.csproj.CoreCompileInputs.cache
+/Users/gonchi/Desktop/Obligatorios/P2/ObligatorioGONp2/ObligatorioGONp2/obj/Debug/ObligatorioGONp2.exe
+/Users/gonchi/Desktop/Obligatorios/P2/ObligatorioGONp2/ObligatorioGONp2/obj/Debug/ObligatorioGONp2.pdb
+/Users/gonchi/Desktop/Obligatorios/P2/ObligatorioP2/ObligatorioGONp2/bin/Debug/ObligatorioGONp2.exe
+/Users/gonchi/Desktop/Obligatorios/P2/ObligatorioP2/ObligatorioGONp2/bin/Debug/ObligatorioGONp2.pdb
+/Users/gonchi/Desktop/Obligatorios/P2/ObligatorioP2/ObligatorioGONp2/obj/Debug/ObligatorioGONp2.csprojAssemblyReference.cache
+/Users/gonchi/Desktop/Obligatorios/P2/ObligatorioP2/ObligatorioGONp2/obj/Debug/ObligatorioGONp2.csproj.CoreCompileInputs.cache
+/Users/gonchi/Desktop/Obligatorios/P2/ObligatorioP2/ObligatorioGONp2/obj/Debug/ObligatorioGONp2.exe
+/Users/gonchi/Desktop/Obligatorios/P2/ObligatorioP2/ObligatorioGONp2/obj/Debug/ObligatorioGONp2.pdb
